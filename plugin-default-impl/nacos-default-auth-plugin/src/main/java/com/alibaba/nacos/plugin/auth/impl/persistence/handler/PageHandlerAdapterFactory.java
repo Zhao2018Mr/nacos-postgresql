@@ -76,7 +76,6 @@ public class PageHandlerAdapterFactory {
         // DefaultPageHandlerAdapter
         addHandlerAdapter(new DerbyPageHandlerAdapter());
 
-
     }
     
     private void addHandlerAdapter(PageHandlerAdapter handlerAdapter) {

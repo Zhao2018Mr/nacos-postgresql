@@ -1,19 +1,18 @@
 /*
- Navicat Premium Data Transfer
-
- Source Server         : me
- Source Server Type    : PostgreSQL
- Source Server Version : 100019 (100019)
- Source Host           : localhost:5432
- Source Catalog        : nacos
- Source Schema         : public
-
- Target Server Type    : PostgreSQL
- Target Server Version : 100019 (100019)
- File Encoding         : 65001
-
- Date: 01/12/2023 17:12:39
-*/
+ * Copyright 1999-2018 Alibaba Group Holding Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
 
 
 -- ----------------------------
