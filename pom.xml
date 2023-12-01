@@ -150,6 +150,7 @@
         <jraft-core.version>1.3.12</jraft-core.version>
         <rpc-grpc-impl.version>${jraft-core.version}</rpc-grpc-impl.version>
         <SnakeYaml.version>2.0</SnakeYaml.version>
+        <postgresql.version>42.7.0</postgresql.version>
     </properties>
     <!-- == -->
     <!-- =========================================================Build plugins================================================ -->
@@ -853,6 +854,12 @@
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
                 <version>${mysql-connector-java.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.postgresql</groupId>
+                <artifactId>postgresql</artifactId>
+                <version>${postgresql.version}</version>
             </dependency>
             
             <dependency>
